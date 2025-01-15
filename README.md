@@ -1,14 +1,14 @@
 # Команды Git
 
-1. **git init**[Перейти](#git_init)
-2. **git add**[Перейти](#git_add)
-3. **git commit**[Перейти](#git_commit)
-4. **git rm**[Перейти](#git_rm)
-5. **git reset**[Перейти](#git_reset)
-6. **git config**[Перейти](#git_config)
-7. **git status**[Перейти](#git_status)
-8. **git show**[Перейти](#git_show)
-9. **git mv**[Перейти](#git_mv)
+1. **git init** [Перейти](#git_init)
+2. **git add** [Перейти](#git_add)
+3. **git commit** [Перейти](#git_commit)
+4. **git rm** [Перейти](#git_rm)
+5. **git reset** [Перейти](#git_reset)
+6. **git config** [Перейти](#git_config)
+7. **git status** [Перейти](#git_status)
+8. **git show** [Перейти](#git_show)
+9. **git mv** [Перейти](#git_mv)
 
 ## <a id="git_init">git init</a>
 `git init`  *Создает git репозиторий*
